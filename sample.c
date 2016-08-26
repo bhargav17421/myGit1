@@ -4,3 +4,5 @@ int c;
 c=10;
 printf("%d",c);
 }
+jhjkfhjks\
+mjksdhfjhk
